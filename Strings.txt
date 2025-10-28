@@ -1,0 +1,4 @@
+str1="Varsha"
+str2="Hiremath"
+FinalStr=str1+str2
+print(FinalStr)
